@@ -1,0 +1,1 @@
+int validar_cpf(const char *cpf); //Verifica se o cpf é válido
